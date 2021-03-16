@@ -29,7 +29,7 @@ function Experiences() {
   return (
     <Paper elevation={3}>
       <Timeline align="alternate">
-        <Typography variant="h3" className="my-3" >Experiences</Typography>
+        <Typography variant="h3" className="mt-5 pb-3" >Experiences</Typography>
         <TimelineItem>
           <TimelineOppositeContent>
             <Typography variant="body2" color="textSecondary">
