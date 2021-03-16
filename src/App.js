@@ -11,6 +11,7 @@ import Container from '@material-ui/core/Container';
 import Experiences from './Experiences/Experiences';
 import FormControlLabel from '@material-ui/core/FormControlLabel';
 import Switch from '@material-ui/core/Switch';
+import Brightness4TwoToneIcon from '@material-ui/icons/Brightness4TwoTone';
 
 const obj = {
   firstName: "El Mahdi",
@@ -98,6 +99,7 @@ function App() {
   const handleChange = (event) => {
     setState({ ...state, [event.target.name]: event.target.checked });
   };
+
   return (
     <div className={classes.root}>
       <AppBar position="sticky" color="default">
@@ -110,7 +112,7 @@ function App() {
           </Typography>
           <FormControlLabel
             control={<IOSSwitch checked={state.checkedB} onChange={handleChange} name="checkedB" />}
-            label="Dark Mode"
+            label={<Brightness4TwoToneIcon />}
           />
         </Toolbar>
       </AppBar>
