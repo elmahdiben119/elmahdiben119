@@ -19,7 +19,7 @@ const obj = {
   age: 22,
   position: "Laravel Developer",
   email: "benbrahim.elmahdi@gmail.com",
-  phone: "+33769242104",
+  phone: "+33 7 69 24 21 04",
 };
 
 const IOSSwitch = withStyles((theme) => ({
