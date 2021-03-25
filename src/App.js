@@ -117,7 +117,7 @@ function App() {
         </Toolbar>
       </AppBar>
       <CssBaseline />
-      <Container maxWidth="md">
+      <Container maxWidth="lg">
         <Experiences></Experiences>
       </Container>
     </div>
