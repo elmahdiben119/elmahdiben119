@@ -1,25 +1,25 @@
 {
   "files": {
-    "main.css": "/elmahdiben119.github.io/elmahdibenbrahim/static/css/main.e8612fa1.chunk.css",
-    "main.js": "/elmahdiben119.github.io/elmahdibenbrahim/static/js/main.d8af5836.chunk.js",
-    "main.js.map": "/elmahdiben119.github.io/elmahdibenbrahim/static/js/main.d8af5836.chunk.js.map",
+    "main.css": "/elmahdiben119.github.io/elmahdibenbrahim/static/css/main.022dc864.chunk.css",
+    "main.js": "/elmahdiben119.github.io/elmahdibenbrahim/static/js/main.41e7d3c1.chunk.js",
+    "main.js.map": "/elmahdiben119.github.io/elmahdibenbrahim/static/js/main.41e7d3c1.chunk.js.map",
     "runtime-main.js": "/elmahdiben119.github.io/elmahdibenbrahim/static/js/runtime-main.b53835d0.js",
     "runtime-main.js.map": "/elmahdiben119.github.io/elmahdibenbrahim/static/js/runtime-main.b53835d0.js.map",
     "static/css/2.d7681c9a.chunk.css": "/elmahdiben119.github.io/elmahdibenbrahim/static/css/2.d7681c9a.chunk.css",
-    "static/js/2.733e5202.chunk.js": "/elmahdiben119.github.io/elmahdibenbrahim/static/js/2.733e5202.chunk.js",
-    "static/js/2.733e5202.chunk.js.map": "/elmahdiben119.github.io/elmahdibenbrahim/static/js/2.733e5202.chunk.js.map",
+    "static/js/2.6a29b217.chunk.js": "/elmahdiben119.github.io/elmahdibenbrahim/static/js/2.6a29b217.chunk.js",
+    "static/js/2.6a29b217.chunk.js.map": "/elmahdiben119.github.io/elmahdibenbrahim/static/js/2.6a29b217.chunk.js.map",
     "index.html": "/elmahdiben119.github.io/elmahdibenbrahim/index.html",
     "static/css/2.d7681c9a.chunk.css.map": "/elmahdiben119.github.io/elmahdibenbrahim/static/css/2.d7681c9a.chunk.css.map",
-    "static/css/main.e8612fa1.chunk.css.map": "/elmahdiben119.github.io/elmahdibenbrahim/static/css/main.e8612fa1.chunk.css.map",
-    "static/js/2.733e5202.chunk.js.LICENSE.txt": "/elmahdiben119.github.io/elmahdibenbrahim/static/js/2.733e5202.chunk.js.LICENSE.txt",
+    "static/css/main.022dc864.chunk.css.map": "/elmahdiben119.github.io/elmahdibenbrahim/static/css/main.022dc864.chunk.css.map",
+    "static/js/2.6a29b217.chunk.js.LICENSE.txt": "/elmahdiben119.github.io/elmahdibenbrahim/static/js/2.6a29b217.chunk.js.LICENSE.txt",
     "static/media/elmahdibenbrahim.400d3987.jpg": "/elmahdiben119.github.io/elmahdibenbrahim/static/media/elmahdibenbrahim.400d3987.jpg",
     "static/media/slick-theme.css": "/elmahdiben119.github.io/elmahdibenbrahim/static/media/slick.c94f7671.ttf"
   },
   "entrypoints": [
     "static/js/runtime-main.b53835d0.js",
     "static/css/2.d7681c9a.chunk.css",
-    "static/js/2.733e5202.chunk.js",
-    "static/css/main.e8612fa1.chunk.css",
-    "static/js/main.d8af5836.chunk.js"
+    "static/js/2.6a29b217.chunk.js",
+    "static/css/main.022dc864.chunk.css",
+    "static/js/main.41e7d3c1.chunk.js"
   ]
 }
