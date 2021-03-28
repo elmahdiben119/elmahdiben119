@@ -9,9 +9,13 @@ import mypic from './assets/images/elmahdibenbrahim.jpg';
 import CssBaseline from '@material-ui/core/CssBaseline';
 import Container from '@material-ui/core/Container';
 import Experiences from './Experiences/Experiences';
+import Educations from './Educations/Educations';
 import FormControlLabel from '@material-ui/core/FormControlLabel';
 import Switch from '@material-ui/core/Switch';
 import Brightness4TwoToneIcon from '@material-ui/icons/Brightness4TwoTone';
+import NavigationIcon from '@material-ui/icons/Navigation';
+import Fab from '@material-ui/core/Fab';
+import { blue } from '@material-ui/core/colors';
 
 const obj = {
   firstName: "El Mahdi",
@@ -86,6 +90,15 @@ const useStyles = makeStyles((theme) => ({
   title: {
     flexGrow: 1,
   },
+  extendedIcon: {
+    position: 'fixed',
+    bottom: '2%',
+    right: '2%',
+    backgroundColor: blue['A200'],
+    '&:hover': {
+      backgroundColor: blue[600],
+    },
+  },
 }));
 
 function App() {
@@ -119,7 +132,11 @@ function App() {
       <CssBaseline />
       <Container maxWidth="lg">
         <Experiences></Experiences>
+        <Educations></Educations>
       </Container>
+      <Fab variant="extended" className={classes.extendedIcon} >
+        <NavigationIcon />
+      </Fab>
     </div>
   );
 }

@@ -11,12 +11,6 @@ import Paper from '@material-ui/core/Paper';
 import Typography from '@material-ui/core/Typography';
 import { Avatar, Container } from '@material-ui/core';
 import Divider from '@material-ui/core/Divider';
-import List from '@material-ui/core/List';
-import ListItem from '@material-ui/core/ListItem';
-import ListItemIcon from '@material-ui/core/ListItemIcon';
-import ListItemText from '@material-ui/core/ListItemText';
-import DraftsIcon from '@material-ui/icons/Drafts';
-import SendIcon from '@material-ui/icons/Send';
 
 const useStyles = makeStyles((theme) => ({
   paper: {
@@ -28,17 +22,10 @@ const useStyles = makeStyles((theme) => ({
 }));
 
 const experiences = {
-  'eyefiz': <Avatar alt="Eyefiz Digital" src="https://eyefiz-digital.com/images/logo-eyefiz.png" />,
-  'nhs': <Avatar alt="NHS" src="https://nhs.ma/images/logo.png" />,
+  'eyefiz': <Avatar alt="Eyefiz Digital" src="https://media-exp1.licdn.com/dms/image/C560BAQEybmFyeyJBmg/company-logo_100_100/0/1608041019999?e=1625097600&v=beta&t=HVwsYO3LfV6XDbalEt9iLqS1x8bsxvJumA6gEnAeXbc" />,
+  'nhs': <Avatar alt="NHS" src="https://media-exp1.licdn.com/dms/image/C4D0BAQHYiU3HFNkPuA/company-logo_100_100/0/1609356803136?e=1625097600&v=beta&t=HfXM6K-KJeROcfPES-gg0dXWlGzIucag0qmhTntnt38" />,
   'educa': <Avatar>E</Avatar>,
-  'ocp': <Avatar alt="OCP" src="https://seeklogo.com/images/O/ocp-logo-4F7287992D-seeklogo.com.png" />,
-}
-
-const schools = {
-  'f2i': <Avatar alt="Eyefiz Digital" src="https://eyefiz-digital.com/images/logo-eyefiz.png" />,
-  'fst': <Avatar alt="NHS" src="https://nhs.ma/images/logo.png" />,
-  'isgi': <Avatar>E</Avatar>,
-  'men': <Avatar alt="OCP" src="https://seeklogo.com/images/O/ocp-logo-4F7287992D-seeklogo.com.png" />,
+  'ocp': <Avatar alt="OCP" src="https://media-exp1.licdn.com/dms/image/C4E0BAQFmRldoOZ_TNQ/company-logo_100_100/0/1519904254247?e=1625097600&v=beta&t=wCx5_HQ2UTKG4OyjdnYJUEYPm1qalhjLGBCn6LGpAhI" />,
 }
 
 function Experiences() {
@@ -66,7 +53,7 @@ function Experiences() {
             <TimelineConnector />
           </TimelineSeparator>
           <TimelineContent>
-            <Paper elevation={2} className={classes.paper}>
+            <Paper elevation={1} className={classes.paper}>
               <Typography variant="h6" component="h1">
                 Eyefiz Digital
             </Typography>
@@ -103,7 +90,7 @@ function Experiences() {
             <TimelineConnector />
           </TimelineSeparator>
           <TimelineContent>
-            <Paper elevation={2} className={classes.paper}>
+            <Paper elevation={1} className={classes.paper}>
               <Typography variant="h6" component="h1">
                 Educa
             </Typography>
@@ -118,7 +105,7 @@ function Experiences() {
             </TimelineDot>
           </TimelineSeparator>
           <TimelineContent>
-            <Paper elevation={3} className={classes.paper}>
+            <Paper elevation={1} className={classes.paper}>
               <Typography variant="h6" component="h1">
                 OCP SA
             </Typography>
@@ -127,40 +114,6 @@ function Experiences() {
           </TimelineContent>
         </TimelineItem>
       </Timeline>
-
-      <Container maxWidth="sm">
-        <List component="nav" aria-labelledby="nested-list-subheader" className={classes.root}>
-          <ListItem button>
-            <ListItemIcon>
-              {schools.f2i}
-            </ListItemIcon>
-            <ListItemText primary="Institut F2i" />
-            <ListItemText primary="Master 1, Consultant and Web & Mobile Developer" />
-          </ListItem>
-          <ListItem button>
-            <ListItemIcon>
-              {schools.fst}
-            </ListItemIcon>
-            <ListItemText primary="FST Settat" />
-            <ListItemText primary="Bachelor Degree in MIAGE" />
-          </ListItem>
-          <ListItem button>
-            <ListItemIcon>
-              {schools.isgi}
-            </ListItemIcon>
-            <ListItemText primary="ISGI" />
-            <ListItemText primary="Associate Degree" />
-          </ListItem>
-          <ListItem button>
-            <ListItemIcon>
-              {schools.men}
-            </ListItemIcon>
-            <ListItemText primary="High School Al Azhar" />
-            <ListItemText primary="High School Degree" />
-          </ListItem>
-        </List>
-      </Container>
-
     </Container>
   );
 }
