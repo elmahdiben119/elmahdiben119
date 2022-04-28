@@ -1,5 +1,7 @@
-Hi 👋 My name is El Mahdi Benbrahim
-===================================Full Stack Developer--------------------Curious, autonomous, rigorous developer, I like simple, fast and efficient applications. A sense of listening and service reinforced by more than a year of experience working on various projects, a technical expertise constantly growing thanks to a perpetual training. Motivated by the need to always do better and supported by solid foundations acquired during my journey, I take pleasure in taking on new challenges.* 🌍  I'm based in Paris* ✉️  You can contact me at [benbrahim.elmahdi@gmail.com](mailto:benbrahim.elmahdi@gmail.com)
+Hi 👋 My name is El Mahdi Benbrahim,
+Full Stack Developer Curious, autonomous, rigorous developer, I like simple, fast and efficient applications. A sense of listening and service reinforced by more than a year of experience working on various projects, a technical expertise constantly growing thanks to a perpetual training. Motivated by the need to always do better and supported by solid foundations acquired during my journey, I take pleasure in taking on new challenges.
+🌍  I'm based in Paris
+✉️  You can contact me at [benbrahim.elmahdi@gmail.com](mailto:benbrahim.elmahdi@gmail.com)
 
 ### Skills
 
