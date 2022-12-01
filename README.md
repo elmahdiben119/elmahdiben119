@@ -8,7 +8,7 @@ Curious, autonomous, rigorous developer, I like simple, fast and efficient appli
 
 * 🌍  I'm based in Paris, France
 * ✉️  You can contact me at [benbrahim.elmahdi@gmail.com](mailto:benbrahim.elmahdi@gmail.com)
-* 🧠  I'm learning DevOps / AWS
+* 🧠  I'm learning DevOps
 
 ### Skills
 
