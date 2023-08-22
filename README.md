@@ -4,7 +4,9 @@ Hi 👋 My name is El Mahdi Benbrahim
 Software Engineer
 --------------------
 
-Curious, autonomous, rigorous developer, I like simple, fast and efficient applications. A sense of listening and service reinforced by more than a year of experience working on various projects, a technical expertise constantly growing thanks to a perpetual training. Motivated by the need to always do better and supported by solid foundations acquired during my journey, I take pleasure in taking on new challenges.
+As a software engineer, I am curious, independent, and meticulous. My passion lies in creating fast and efficient applications that provide real value to users. With over 3 years of experience working on various projects, I have developed a keen sense of listening and service, allowing me to understand clients' needs and provide tailored solutions.
+
+I am constantly seeking further education to enhance my technical expertise and stay at the forefront of the latest technologies. My desire to constantly push boundaries drives me to embrace new challenges with enthusiasm and enjoyment. My background has provided me with a solid foundation that I apply daily to ensure high-quality results.
 
 * 🌍  I'm based in Paris, France
 * ✉️  You can contact me at [benbrahim.elmahdi@gmail.com](mailto:benbrahim.elmahdi@gmail.com)
